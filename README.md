@@ -1,7 +1,7 @@
 
   # Build Booking System
 
-  This is a code bundle for Build Booking System. The original project is available at https://www.figma.com/design/sDaOkWj3cU8jYWRunsIhkz/Build-Booking-System.
+  This is a code bundle for Pragya Yog School Booking System. 
 
   ## Running the code
 
